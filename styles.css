@@ -465,8 +465,8 @@ h3 {
 }
 
 .sirlekas-media img {
-  object-fit: contain;
-  background: #ffffff;
+  object-fit: cover;
+  object-position: top center;
 }
 
 .clinic-media img,
